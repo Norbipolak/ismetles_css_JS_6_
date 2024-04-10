@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 15px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+}
+
+.comment {
+    background-color: aquamarine;
+    border: 1px solid #06b0d6;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px; 
+    width: 90%;
+}
+.grid-2 {
+    display: flex;
+}
+
+.box {
+    background-color: chartreuse;
+    border: 1px solid #16ff01;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px;
+}
+
